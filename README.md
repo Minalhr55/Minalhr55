@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Minal H R
-- 👀 I’m interested in ...CS, Writing, singing, music(BTS), anime 
+- 
 - 🌱 I’m currently pursuing B'Tech computer science and engineering at PES University 
 - 📫 How to reach me ... minalhr55@gmail.com 
 
