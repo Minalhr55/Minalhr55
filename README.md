@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Minal H R
-- 
-- 🌱 I’m currently pursuing B'Tech computer science and engineering at PES University 
-- 📫 How to reach me ... minalhr55@gmail.com 
+- 👋 Hi, I’m Minal 
+- 🌱 Student at PES University 
+- 📫 minalhr55@gmail.com 
 
 <!---
 Minalhr55/Minalhr55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
